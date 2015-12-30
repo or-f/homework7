@@ -11,6 +11,7 @@ namespace hw7.c
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine(" making changes");
         }
     }
 }
